@@ -3,6 +3,7 @@
 <br>Hey there! I’m a passionate and curious developer with a strong interest in computer science, full-stack web development, and applied machine learning. I enjoy building meaningful solutions—from front-end experiences to backend systems—and tackling real-world challenges through code.<br><br><br>I’ve also contributed as:<br><br>🧩 A Researcher exploring computer graphics and VR in gaming applications.<br><br>🌍 A Marketing Executive at IETE MPSTME and a Lead Volunteer at the United Social Welfare Association.<br><br>🌱 Currently Exploring<br><br>🔄 Flutter for mobile UI development and Dart programming<br><br>🐼 pandas, NumPy, and matplotlib for data analysis and visualization<br><br>📊 Core machine learning concepts including model selection, evaluation, and feature engineering
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aaryan-lunis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lunisaaryan@gmail.com) 
 
