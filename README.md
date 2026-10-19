@@ -1,5 +1,49 @@
-# 💫 About Me:
-Hey there 👋<br>I am **Aaryan Lunis** a curious developer who loves turning ideas into tech that actually *matters*. From crafting smooth front-end interfaces to building solid backends and experimenting with machine learning models, I’m all about blending creativity with logic to make something impactful.<br><br>Right now, I’m diving deep into **AI and applied machine learning research**, exploring how data and algorithms can reshape the way we interact with the world. I’m always eager to collaborate, learn, and grow. I am currently **open to internship opportunities** where I can bring my skills and curiosity to real-world projects 🚀.<br><br>🧠 **Research in Progress**<br><br>* 🎬 **Box Office Revenue Prediction:** An ensemble learning approach with advanced feature engineering and evaluation.<br>* ⚙️ **Deep Reinforcement Learning for Adaptive and Scalable I/O Scheduling:** Exploring dynamic optimization through intelligent learning.<br>* 🌞 **NLP & Deep Learning for Renewable Energy Innovation:** Investigating how language models can support sustainable energy solutions.<br><br>🛠️ **What I’ve Been Up To**<br><br>* 💻 **Web Maintenance Intern @ JSH Architects** — keeping their website fresh, fast, and functional.<br>* 🤖 **Machine Learning Research Intern @ Suvidha Foundation** — working on ML research projects that turn messy data into meaningful insights.<br>🌍   **Beyond Code**<br><br>* 🌐 **Marketing Executive @ IETE MPSTME** — promoted tech events and drove student engagement.<br>* 💚 **Lead Volunteer @ United Social Welfare Association** — organized social campaigns and community initiatives.<br><br>🚀 **Currently Exploring**<br><br>* 🤖 **Machine Learning** — model selection, evaluation, feature engineering, and impactful research paper writing.<br>* 🐍 **Data Science Stack** — pandas, NumPy, matplotlib, seaborn.<br>* 🌱 **Full-Stack Development** — React, Node.js, and RESTful APIs.<br>Always building, always learning, and always open to collaborations that make tech *mean something* ✨<br>
+## About
+
+I’m Aaryan Lunis, a final-year Computer Engineering student at SVKM’s NMIMS, focused on applied machine learning, AI engineering, and software development.
+
+My work spans machine learning research, data-driven applications, and backend development. I’m interested in building systems that go beyond model experimentation—integrating data processing, evaluation, APIs, and application logic into solutions that can be used in practice.
+
+My research has covered predictive modelling, sustainable cloud computing, and post-quantum security. Alongside research, I’ve gained industry experience in AI development, machine learning research, and web development.
+
+**Interests:** Applied AI/ML · ML Engineering · Data Science · Cloud Systems · Financial Technology
+
+**Technologies:** Python · SQL · Scikit-learn · XGBoost · Pandas · NumPy · FastAPI · React · Git
+
+---
+
+## Research
+
+- **Box Office Revenue Prediction** — Developed and evaluated ensemble-learning approaches for film revenue prediction, achieving an \(R^2\) of 0.7695 with tuned XGBoost; presented at DACS 2025.
+- **Eco-Scheduler** — Explored Deep Q-Network-based workload scheduling to reduce cloud computing emissions while balancing latency.
+- **AH-KEM: Adaptive Hybrid Key Encapsulation Mechanism** — Investigated adaptive post-quantum security for cloud communication; presented at PKIA 2026.
+- **NLP and Deep Learning for Renewable Energy Innovation** — Reviewed applications of NLP and deep learning in advancing renewable-energy research.
+- **GraphGate** — Researched feature-gated graph attention autoencoders for detecting behavioural poisoning in federated learning.
+
+## Selected Projects
+
+- **AlphaCross — AI Trading Signal Analyser** — Built an XGBoost-based trading signal classifier with a FastAPI backend and React dashboard for analysing crossover signals across NSE stocks.
+- **EmoSound** — Developed an emotion-based music discovery platform using a DistilRoBERTa model to classify text sentiment and support music recommendations.
+- **MOSAIC — Multi-Agent Clinical Trial Intelligence** — Developing a multi-agent system for clinical-trial intelligence and research-integrity auditing.
+- **Movie Recommender System** — Implemented a content-based recommendation system using cosine similarity.
+- **Habit & Mood Tracker** — Developed an Android application with Firebase Authentication and Firestore for user accounts and data storage.
+
+## Experience
+
+- **AI Development & Engineering Intern — Finifi** — Developed NLP and OCR pipelines for invoice processing within finance and ERP-integrated workflows.
+- **Machine Learning Research Intern — Suvidha Foundation** — Worked on NeuroGenesisLM, exploring transformer-based architectures and language acquisition.
+- **Web Maintenance Intern — JSH Architects and Interior Designers** — Maintained and improved website functionality, content accuracy, and frontend presentation.
+
+## Beyond Engineering
+
+- **Marketing Executive — IETE, MPSTME** — Supported technology events through sponsor outreach, communications, and coordination.
+- **Technical Head — United Social Welfare Association** — Coordinated volunteers and supported donation drives and community initiatives.
+
+---
+
+I’m interested in engineering roles and projects involving applied AI, machine learning, data systems, and financial technology.
+
+
 
 
 
