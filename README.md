@@ -1,8 +1,8 @@
 ## About
 
-I’m Aaryan Lunis, a final-year Computer Engineering student at SVKM’s NMIMS, focused on applied machine learning, AI engineering, and software development.
+I am Aaryan Lunis, a final-year Computer Engineering student at SVKM’s NMIMS, focused on applied machine learning, AI engineering, and software development.
 
-My work spans machine learning research, data-driven applications, and backend development. I’m interested in building systems that go beyond model experimentation—integrating data processing, evaluation, APIs, and application logic into solutions that can be used in practice.
+My work spans machine learning research, data-driven applications, and backend development. I am interested in building systems that go beyond model experimentation—integrating data processing, evaluation, APIs, and application logic into solutions that can be used in practice.
 
 My research has covered predictive modelling, sustainable cloud computing, and post-quantum security. Alongside research, I’ve gained industry experience in AI development, machine learning research, and web development.
 
@@ -17,7 +17,6 @@ My research has covered predictive modelling, sustainable cloud computing, and p
 - **Box Office Revenue Prediction** — Developed and evaluated ensemble-learning approaches for film revenue prediction, achieving an \(R^2\) of 0.7695 with tuned XGBoost; presented at DACS 2025.
 - **Eco-Scheduler** — Explored Deep Q-Network-based workload scheduling to reduce cloud computing emissions while balancing latency.
 - **AH-KEM: Adaptive Hybrid Key Encapsulation Mechanism** — Investigated adaptive post-quantum security for cloud communication; presented at PKIA 2026.
-- **NLP and Deep Learning for Renewable Energy Innovation** — Reviewed applications of NLP and deep learning in advancing renewable-energy research.
 - **GraphGate** — Researched feature-gated graph attention autoencoders for detecting behavioural poisoning in federated learning.
 
 ## Selected Projects
@@ -41,7 +40,7 @@ My research has covered predictive modelling, sustainable cloud computing, and p
 
 ---
 
-I’m interested in engineering roles and projects involving applied AI, machine learning, data systems, and financial technology.
+I am interested in engineering roles and projects involving applied AI, machine learning, data systems, and financial technology.
 
 
 
